@@ -18,7 +18,7 @@ Ce projet vise à centraliser plusieurs eggs personnalisés développés et test
 
 ## 💡 Crédits et origine du projet
 
-Idée originale et création du dépôt par **[DevXCat](https://github.com/DevXCat)**.
+Idée et création du dépôt par **[DevXCat](https://github.com/DevXCat)**.
 
 ---
 
