@@ -29,6 +29,11 @@ Idée et création du dépôt par **[DevXCat](https://github.com/DevXCat)**.
 3. Sélectionnez le fichier téléchargé.
 4. Configurez votre serveur, et c’est prêt ! ✅
 
-## 💖 Verification
+---
 
-Les eggs déposés ici sont testés dans des conditions réelles sur un serveur, soumis à des centaines de scénarios différents. Ensuite, chaque egg est minutieusement analysé manuellement, ligne par ligne, par **[Drayko](https://github.com/GraphStats)**.
+## ❓Comment sont trouvés les eggs ?
+
+Nous parcourons l’ensemble de GitHub afin de trouver l’egg correspondant précisément à vos besoins.
+
+
+Besoins d'un egg special, ouvrez une issues
