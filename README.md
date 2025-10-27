@@ -35,6 +35,6 @@ Idée et création du dépôt par **[DevXCat](https://github.com/DevXCat)**.
 
 Nous parcourons l’ensemble de GitHub afin de trouver l’egg correspondant précisément à vos besoins.
 
-
+---
 
 ### **Besoins d'un egg special, ouvrez une issues**
