@@ -28,3 +28,7 @@ Idée et création du dépôt par **[DevXCat](https://github.com/DevXCat)**.
 2. Allez dans votre **panel Pterodactyl → Nests → Import Egg**.
 3. Sélectionnez le fichier téléchargé.
 4. Configurez votre serveur, et c’est prêt ! ✅
+
+## 💖 Verification
+
+Les eggs déposés ici sont testés dans des conditions réelles sur un serveur, soumis à des centaines de scénarios différents. Ensuite, chaque egg est minutieusement analysé manuellement, ligne par ligne, par **[Drayko](https://github.com/GraphStats)**.
